@@ -1,0 +1,2 @@
+echo "Olá mundo!" > arquivo.txt
+type arquivo.txt
